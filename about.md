@@ -6,7 +6,9 @@ permalink: /about/
 
 Product Manager in the BFSI space, driving digital strategy, execution, and user science for customer centric delightful products! Figuring out what products to make, ensuring that those products get made, usually involving digital design and software engineering.
 
-Interested in startups, FinTech's & API Economy | Economics & Geo Politics fanatic
+Interested in startups, FinTech's & API Economy
+
+Economics & Geo Politics fanatic
 
 ### Professional Experience
 
@@ -14,7 +16,9 @@ Presently working for the India's Largest Retail Brokerage House & Financial Ser
 
 ### Academics
 
-Computer Engineer | CFA Level 3 Candidate
+CFA Level 3 Candidate
+
+Computer Engineer
 
 ### Contact me
 
