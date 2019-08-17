@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Product Manager in the BFSI space, driving digital strategy, execution, and user science for customer centric delightful products! Figuring out what products to make, ensuring that those products get made (usually involving digital design and software engineering), and reporting back on how users respond to products.
+Product Manager in the BFSI space, driving digital strategy, execution, and user science for customer centric delightful products! Figuring out what products to make, ensuring that those products get made, usually involving digital design and software engineering.
 
-Engineer at heart, Economics fanatic, loves to inspire & empower people!
+Interested in startups, FinTech's & API Economy | Economics & Geo Politics fanatic
 
 ### Professional Experience
 
-Presently working for the largest Retail Financial Services Organization in the country. With previous roles in Investment Banking & Retail Financial Services Industry & job profiles ranging from Business Analyst, Electronic Trading, Quantitative Research, Digital Strategy & Product Management.
+Presently working for the India's Largest Retail Brokerage House & Financial Services Organization. With previous roles in Investment Banking & Financial Services Industry for job profiles ranging from Business Analyst, Electronic Trading, Quantitative Research, Digital Strategy & Product Management.
 
 ### Academics
 
