@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Product Manager in the BFSI space, driving digital strategy, execution, and user science for customer centric delightful products! Figuring out what products to make, ensuring that those products get made (usually involving digital design and software engineering), and reporting back on how users respond to products.
 
-### More Information
+Engineer at heart, Economics fanatic, loves to inspire & empower people!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Professional Experience
+
+Presently working for the largest Retail Financial Services Organization in the country. With previous roles in Investment Banking & Retail Financial Services Industry & job profiles ranging from Business Analyst, Electronic Trading, Quantitative Research, Digital Strategy & Product Management.
+
+### Academics
+
+Computer Engineer | CFA Level 3 Candidate
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@akshayrote](https://twitter.com/akshayrote)
